@@ -1,17 +1,18 @@
 # intothenet
 
-Into The Net - an Fanmade RPG by divinelight
-Based on :
-- Megaman Battle Network (2001)
-- .hack// games (2002)
+Into The Net - an Fanmade RPG by divinelight based on :
+* Megaman Battle Network (2001)
+* .hack// games (2002)
+
 Copyright (c) 2005 (original) / 2021 (reworked)
+
 Created using RPG Maker 2000 -Steam edition-
 https://divinelight.itch.io/
 
 CHANGELOG
 
-	2005      : Initial Release
-	2021-11-28: Reworked version 1.0 
+	2005    	: Initial Release
+	2021-11-28	: Reworked version 1.0 
 			- Title renamed to "Into The Net"
 			- 100% conversations had been rewritten
 			- Change names for some people
